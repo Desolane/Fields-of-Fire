@@ -2693,6 +2693,7 @@
 #include "icons\FoF\code\melee.dm"
 #include "icons\FoF\code\misc_structures.dm"
 #include "icons\FoF\code\tanktrap.dm"
+#include "icons\FoF\code\weapons_ammo.dm"
 #include "icons\FoF\lobby_music\fof_lobby_music.dm"
 #include "interface\interface.dm"
 #include "interface\skin.dmf"
