@@ -22,7 +22,7 @@
 
 	candidate.savefile_save(preference_mob())
 
-/datum/category_item/player_setup_item/player_global/pai/content(var/mob/user)
+/*/datum/category_item/player_setup_item/player_global/pai/content(var/mob/user)
 	if(!candidate)
 		candidate = new()
 
@@ -58,3 +58,4 @@
 		return TOPIC_REFRESH
 
 	return ..()
+*/
