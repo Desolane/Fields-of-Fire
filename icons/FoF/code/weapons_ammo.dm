@@ -2,7 +2,7 @@
 // FIREARMS	//
 
 /obj/item/weapon/gun/projectile/wwi
-	icon = 'icons/FoF/weaponsnew.dmi'
+	icon = 'icons/FoF/munitionsx32.dmi'
 	force = 10
 	jam_chance = 5
 	attack_verb = list("beaten","clubbed","muzzle fucked","freedom rocked","stock bumped","whacked","smacked","slapped","crushed","crunched","bashed","clobbered","struck","busted","thumped","battered","pounded","pummeled","slammed","stabbed")
@@ -417,7 +417,7 @@ obj/item/weapon/gun/projectile/wwi/lever/proc/lever(mob/M as mob)
 
 /obj/item/ammo_magazine/box/a792
 	name = "7.92mm box magazine"
-	icon = 'icons/FoF/munitions.dmi'
+	icon = 'icons/FoF/munitionsx32.dmi'
 	icon_state = "mg08mag"
 	mag_type = MAGAZINE
 	caliber = "a792"
@@ -431,7 +431,7 @@ obj/item/weapon/gun/projectile/wwi/lever/proc/lever(mob/M as mob)
 
 /obj/item/ammo_magazine/box/mp303
 	name = ".303 British drum magazine"
-	icon = 'icons/FoF/munitions.dmi'
+	icon = 'icons/FoF/munitionsx32.dmi'
 	icon_state = "lewismag"
 	mag_type = MAGAZINE
 	caliber = "a303"
@@ -445,7 +445,7 @@ obj/item/weapon/gun/projectile/wwi/lever/proc/lever(mob/M as mob)
 
 /obj/item/ammo_magazine/box/c8mm
 	name = "8mm box magazine"
-	icon = 'icons/FoF/munitions.dmi'
+	icon = 'icons/FoF/munitionsx32.dmi'
 	icon_state = "chauchatmag"
 	mag_type = MAGAZINE
 	caliber = "8mm"
@@ -459,7 +459,7 @@ obj/item/weapon/gun/projectile/wwi/lever/proc/lever(mob/M as mob)
 
 /obj/item/ammo_magazine/c32acp
 	name = ".32 ACP magazine"
-	icon = 'icons/FoF/munitions.dmi'
+	icon = 'icons/FoF/munitionsx32.dmi'
 	icon_state = "rubymag"
 	mag_type = MAGAZINE
 	caliber = ".32"
@@ -473,7 +473,7 @@ obj/item/weapon/gun/projectile/wwi/lever/proc/lever(mob/M as mob)
 
 /obj/item/ammo_magazine/c9mm
 	name = "9mm stripper clip"
-	icon = 'icons/FoF/munitions.dmi'
+	icon = 'icons/FoF/munitionsx32.dmi'
 	icon_state = "c96clip"
 	caliber = "9mm"
 	max_ammo = 10
@@ -486,7 +486,7 @@ obj/item/ammo_magazine/c9mm/empty
 
 /obj/item/ammo_magazine/c9mml
 	name = "9mm magazine"
-	icon = 'icons/FoF/munitions.dmi'
+	icon = 'icons/FoF/munitionsx32.dmi'
 	icon_state = "p08mag"
 	mag_type = MAGAZINE
 	caliber = "9mm"
@@ -500,7 +500,7 @@ obj/item/ammo_magazine/c9mm/empty
 
 /obj/item/ammo_magazine/a445
 	name = "speed loader (.455)"
-	icon = 'icons/FoF/munitions.dmi'
+	icon = 'icons/FoF/munitionsx32.dmi'
 	icon_state = "webleymag"
 	caliber = "455"
 	ammo_type = /obj/item/ammo_casing/a455
@@ -514,7 +514,7 @@ obj/item/ammo_magazine/c9mm/empty
 
 /obj/item/ammo_magazine/g792
 	name = "7.92mm stripper clip"
-	icon = 'icons/FoF/munitions.dmi'
+	icon = 'icons/FoF/munitionsx32.dmi'
 	icon_state = "stripclip"
 	caliber = "a792"
 	ammo_type = /obj/item/ammo_casing/a792
@@ -527,7 +527,7 @@ obj/item/ammo_magazine/c9mm/empty
 
 /obj/item/ammo_magazine/smle_strip
 	name = ".303 stripper clip"
-	icon = 'icons/FoF/munitions.dmi'
+	icon = 'icons/FoF/munitionsx32.dmi'
 	icon_state = "stripclip"
 	caliber = "a303"
 	ammo_type = /obj/item/ammo_casing/a303
@@ -540,7 +540,7 @@ obj/item/ammo_magazine/c9mm/empty
 
 /obj/item/ammo_magazine/smle_mag
 	name = "SMLE magazine"
-	icon = 'icons/FoF/munitions.dmi'
+	icon = 'icons/FoF/munitionsx32.dmi'
 	icon_state = "smlemag"
 	caliber = "a303"
 	ammo_type = /obj/item/ammo_casing/a303
@@ -554,7 +554,7 @@ obj/item/ammo_magazine/c9mm/empty
 /obj/item/ammo_magazine/a45
 	name = ".45 ACP magazine"
 	icon_state = "coltmag"
-	icon = 'icons/FoF/munitions.dmi'
+	icon = 'icons/FoF/munitionsx32.dmi'
 	mag_type = MAGAZINE
 	ammo_type = /obj/item/ammo_casing/a45
 	matter = list(DEFAULT_WALL_MATERIAL = 525)
