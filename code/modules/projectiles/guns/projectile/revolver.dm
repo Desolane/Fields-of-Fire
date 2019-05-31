@@ -89,25 +89,3 @@
 	desc += " Someone snipped off the barrel's toy mark. How dastardly."
 	return 1
 
-/obj/item/weapon/gun/projectile/revolver/webley
-	name = "Webley"
-	desc = "A classic British revolver. Fires .455 caliber"
-	icon = 'icons/FoF/weaponsnew.dmi'
-	fire_sound = 'sound/weapons/webley.ogg'
-	icon_state = "webley"
-	item_state = "revolver"
-	caliber = "455"
-	handle_casings = CYCLE_CASINGS
-	max_shells = 6
-	ammo_type = /obj/item/ammo_casing/a455
-	w_class = ITEM_SIZE_NORMAL
-	slot_flags = SLOT_BELT
-	jam_chance = 5
-
-/obj/item/weapon/gun/projectile/revolver/webley/update_icon()
-	..()
-	if(loaded.len)
-		icon_state = "webley"
-	else
-		icon_state = "webley_empty"
-	return

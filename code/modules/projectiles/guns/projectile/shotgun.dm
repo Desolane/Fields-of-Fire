@@ -50,27 +50,6 @@
 	ammo_type = /obj/item/ammo_casing/shotgun
 	one_hand_penalty = 3 //a little heavier than the regular shotgun
 
-/obj/item/weapon/gun/projectile/shotgun/pump/trenchgun
-	name = "\improper Trenchgun"
-	desc = "An imported American shotgun useful for clearing trenches. Takes shotgun shells."
-	icon_state = "trenchgun"
-	item_state = "shotgun_w"
-	icon = 'icons/FoF/weaponsnew.dmi'
-	item_icons = list(
-		slot_l_hand_str = 'icons/FoF/lefthand_guns.dmi',
-		slot_r_hand_str = 'icons/FoF/righthand_guns.dmi',
-		)
-	fire_sound = 'sound/weapons/trenchgun.ogg'
-	max_shells = 5
-	ammo_type = /obj/item/ammo_casing/shotgun/trench
-	w_class = ITEM_SIZE_HUGE
-	slot_flags = SLOT_BACK
-	force = 15
-	jam_chance = 1
-	fire_delay = 0
-	burst_delay = 0
-
-
 /obj/item/weapon/gun/projectile/shotgun/doublebarrel
 	name = "double-barreled shotgun"
 	desc = "A true classic."

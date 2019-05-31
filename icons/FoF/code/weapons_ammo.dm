@@ -349,7 +349,7 @@ obj/item/weapon/gun/projectile/wwi/lever/proc/lever(mob/M as mob)
 	desc = "An imported American repeating rifle built to be used with smokeless powder. Uses .30-30 Winchester casings."
 	icon_state = "winch"
 	item_state = "ba_rifle"
-	icon = 'icons/FoF/weaponsnew.dmi'
+	icon = 'icons/FoF/munitionsx32.dmi'
 	slot_flags = SLOT_BACK
 	caliber = "a3030"
 	fire_sound = 'sound/weapons/trenchgun.ogg'
@@ -412,6 +412,49 @@ obj/item/weapon/gun/projectile/wwi/lever/proc/lever(mob/M as mob)
 	else
 		icon_state = "colt_empty"
 	return
+
+/obj/item/weapon/gun/projectile/revolver/webley
+	name = "Webley"
+	desc = "A classic British revolver. Fires .455 caliber"
+	icon = 'icons/FoF/munitionsx32.dmi'
+	fire_sound = 'sound/weapons/webley.ogg'
+	icon_state = "webley"
+	item_state = "revolver"
+	caliber = "455"
+	handle_casings = CYCLE_CASINGS
+	max_shells = 6
+	ammo_type = /obj/item/ammo_casing/a455
+	w_class = ITEM_SIZE_NORMAL
+	slot_flags = SLOT_BELT
+	jam_chance = 5
+
+/obj/item/weapon/gun/projectile/revolver/webley/update_icon()
+	..()
+	if(loaded.len)
+		icon_state = "webley"
+	else
+		icon_state = "webley_empty"
+	return
+
+/obj/item/weapon/gun/projectile/shotgun/pump/trenchgun
+	name = "\improper Trenchgun"
+	desc = "An imported American shotgun useful for clearing trenches. Takes shotgun shells."
+	icon_state = "trenchgun"
+	item_state = "shotgun_w"
+	icon = 'icons/FoF/munitionsx32.dmi'
+	item_icons = list(
+		slot_l_hand_str = 'icons/FoF/lefthand_guns.dmi',
+		slot_r_hand_str = 'icons/FoF/righthand_guns.dmi',
+		)
+	fire_sound = 'sound/weapons/trenchgun.ogg'
+	max_shells = 5
+	ammo_type = /obj/item/ammo_casing/shotgun/trench
+	w_class = ITEM_SIZE_HUGE
+	slot_flags = SLOT_BACK
+	force = 15
+	jam_chance = 1
+	fire_delay = 0
+	burst_delay = 0
 
 //	AMMUNITION	//
 
