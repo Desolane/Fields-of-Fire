@@ -82,7 +82,7 @@
 	name = "shotgun shell"
 	desc = "A dirty shotgun shell."
 	icon_state = "shotgunshell"
-	icon = 'icons/FoF/munitions.dmi'
+	icon = 'icons/FoF/munitionsx32.dmi'
 	spent_icon = "spent_shotgunshell"
 	projectile_type = /obj/item/projectile/bullet/pellet/shotgun
 	matter = list(DEFAULT_WALL_MATERIAL = 360)
