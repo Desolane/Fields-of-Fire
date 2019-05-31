@@ -3354,6 +3354,8 @@
 	name = "\improper handful of oats"
 	desc = "Processed oats can be eaten raw and last forever. If only they didn't taste so bad."
 	center_of_mass = "x=16;y=12"
+	x_class = 2
+	y_class = 1
 	nutriment_desc = list("preservatives" = 2,"bland powder" = 4)
 	nutriment_amt = 2
 	New()
@@ -3387,6 +3389,8 @@
 	icon = 'icons/FoF/misc.dmi'
 	desc = "These are healthy. Right?"
 	icon_state = "food_beans"
+	x_class = 2
+	y_class = 1
 	center_of_mass = "x=16;y=15"
 	nutriment_desc = list("dirt" = 2,"stale beans" = 4)
 	nutriment_amt = 3

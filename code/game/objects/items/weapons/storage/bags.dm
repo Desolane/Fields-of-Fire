@@ -102,12 +102,14 @@
 	name = "bag of oats"
 	desc = "A burlap sack of processed oats."
 	storage_slots_w = 8
+	storage_slots_h = 2
 	startswith = list(/obj/item/weapon/reagent_containers/food/snacks/oats = 8)
 
 /obj/item/weapon/storage/bag/wwi/beans
 	name = "bag of beans"
 	desc = "A burlap sack of... beans?"
 	storage_slots_w = 8
+	storage_slots_h = 2
 	startswith = list(/obj/item/weapon/reagent_containers/food/snacks/beans = 8)
 
 /obj/item/weapon/storage/bag/wwi/ham

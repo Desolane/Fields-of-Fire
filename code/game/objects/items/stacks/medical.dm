@@ -294,7 +294,7 @@
 
 /obj/item/stack/medical/bruise_pack/trench
 	name = "roll of gauze"
-	singular_name = "strip of gauze"
+	singular_name = "gauze patch"
 	icon = 'icons/FoF/misc.dmi'
 	icon_state = "bandage"
 	desc = "These bandages are somehow still sterile and treat a wide variety of wounds."
