@@ -1,0 +1,291 @@
+"aa" = (/turf/unsimulated/wall,/area/the_shit)
+"ab" = (/turf/simulated/floor/planet/dirt,/area/the_shit)
+"ac" = (/obj/effect/dummy/spell_jaunt,/turf/unsimulated/wall,/area/the_shit)
+"ad" = (/obj/machinery/light/spot{tag = "icon-tube1 (NORTH)"; icon_state = "tube1"; dir = 1},/turf/simulated/floor/planet/dirt,/area/the_shit)
+"ae" = (/obj/machinery/vending/wwi/britstandard,/turf/simulated/floor/planet/dirt,/area/the_shit)
+"af" = (/obj/item/weapon/reagent_containers/food/snacks/can/beans,/turf/simulated/floor/planet/dirt,/area/the_shit)
+"ag" = (/obj/machinery/light/spot{dir = 4},/turf/simulated/floor/planet/dirt,/area/the_shit)
+"ah" = (/obj/machinery/light/spot{dir = 8},/turf/simulated/floor/planet/dirt,/area/the_shit)
+"ai" = (/obj/machinery/light/spot,/turf/simulated/floor/planet/dirt,/area/the_shit)
+"aj" = (/obj/structure/window/reinforced/projresist,/obj/machinery/light/spot{tag = "icon-tube1 (NORTH)"; icon_state = "tube1"; dir = 1},/turf/simulated/floor/planet/dirt,/area/the_shit)
+"ak" = (/obj/structure/window/reinforced/projresist,/turf/simulated/floor/planet/dirt,/area/the_shit)
+"al" = (/obj/structure/window/reinforced/projresist{tag = "icon-rwindow (EAST)"; icon_state = "rwindow"; dir = 4},/turf/simulated/floor/planet/dirt,/area/the_shit)
+"am" = (/obj/machinery/vending/wwi/britknight,/turf/simulated/floor/planet/dirt,/area/the_shit)
+"an" = (/obj/structure/window/reinforced/projresist{tag = "icon-rwindow (EAST)"; icon_state = "rwindow"; dir = 4},/obj/structure/window/reinforced/projresist{tag = "icon-rwindow (WEST)"; icon_state = "rwindow"; dir = 8},/turf/simulated/floor/planet/dirt,/area/the_shit)
+"ao" = (/obj/machinery/vending/wwi/frenchstandard,/turf/simulated/floor/planet/dirt,/area/the_shit)
+"ap" = (/obj/machinery/vending/wwi/germknight,/turf/simulated/floor/planet/dirt,/area/the_shit)
+"aq" = (/obj/machinery/vending/wwi/germstandard,/turf/simulated/floor/planet/dirt,/area/the_shit)
+"ar" = (/obj/structure/window/reinforced/projresist{tag = "icon-rwindow (WEST)"; icon_state = "rwindow"; dir = 8},/turf/simulated/floor/planet/dirt,/area/the_shit)
+"as" = (/obj/effect/landmark/wakeup/brit,/turf/simulated/floor/planet/dirt,/area/the_shit)
+"at" = (/obj/effect/landmark/wakeup/german,/turf/simulated/floor/planet/dirt,/area/the_shit)
+"au" = (/obj/effect/landmark/start/britknight,/turf/simulated/floor/planet/dirt,/area/the_shit)
+"av" = (/obj/effect/landmark/start/brit,/turf/simulated/floor/planet/dirt,/area/the_shit)
+"aw" = (/obj/effect/landmark/start/germsquire,/turf/simulated/floor/planet/dirt,/area/the_shit)
+"ax" = (/obj/effect/landmark/start/french,/turf/simulated/floor/planet/dirt,/area/the_shit)
+"ay" = (/obj/effect/landmark/start/germ,/turf/simulated/floor/planet/dirt,/area/the_shit)
+"az" = (/obj/effect/landmark/start/britag,/turf/simulated/floor/planet/dirt,/area/the_shit)
+"aA" = (/obj/effect/landmark/start/germsoldier,/turf/simulated/floor/planet/dirt,/area/the_shit)
+"aB" = (/obj/structure/window/reinforced/projresist{tag = "icon-rwindow (NORTH)"; icon_state = "rwindow"; dir = 1},/turf/simulated/floor/planet/dirt,/area/the_shit)
+"aC" = (/obj/structure/closet/crate/trench/wood,/turf/simulated/floor/planet/dirt,/area/the_shit)
+"aD" = (/obj/structure/closet/crate/trench/wood/med,/turf/simulated/floor/planet/dirt,/area/the_shit)
+"aE" = (/obj/structure/closet/crate/trench/wood/med/fresh,/turf/simulated/floor/planet/dirt,/area/the_shit)
+"aF" = (/obj/machinery/vending/wwi/britmedic,/turf/simulated/floor/planet/dirt,/area/the_shit)
+"aG" = (/obj/machinery/vending/wwi/frenchmedic,/turf/simulated/floor/planet/dirt,/area/the_shit)
+"aH" = (/obj/machinery/vending/wwi/germmedic,/turf/simulated/floor/planet/dirt,/area/the_shit)
+"aI" = (/obj/structure/closet/crate/trench/ammo,/turf/simulated/floor/planet/dirt,/area/the_shit)
+"aJ" = (/obj/structure/closet/crate/trench/ammo/brit,/turf/simulated/floor/planet/dirt,/area/the_shit)
+"aK" = (/obj/structure/closet/crate/trench/ammo/french,/turf/simulated/floor/planet/dirt,/area/the_shit)
+"aL" = (/obj/structure/closet/crate/trench/ammo/german,/turf/simulated/floor/planet/dirt,/area/the_shit)
+"aM" = (/obj/item/weapon/card/id/wwi/brittin,/turf/simulated/floor/planet/dirt,/area/the_shit)
+"aN" = (/obj/item/weapon/card/id/wwi/frenchtin,/turf/simulated/floor/planet/dirt,/area/the_shit)
+"aO" = (/obj/item/weapon/card/id/wwi/germantin,/turf/simulated/floor/planet/dirt,/area/the_shit)
+"aP" = (/obj/item/weapon/circular_saw/trench,/turf/simulated/floor/planet/dirt,/area/the_shit)
+"aQ" = (/obj/item/weapon/reagent_containers/food/snacks/bowl/ham,/turf/simulated/floor/planet/dirt,/area/the_shit)
+"aR" = (/obj/item/weapon/reagent_containers/food/snacks/oats,/turf/simulated/floor/planet/dirt,/area/the_shit)
+"aS" = (/obj/item/weapon/reagent_containers/food/snacks/beans,/turf/simulated/floor/planet/dirt,/area/the_shit)
+"aT" = (/obj/item/weapon/reagent_containers/food/snacks/fish,/turf/simulated/floor/planet/dirt,/area/the_shit)
+"aU" = (/obj/item/weapon/reagent_containers/food/snacks/ham,/turf/simulated/floor/planet/dirt,/area/the_shit)
+"aV" = (/obj/item/weapon/reagent_containers/food/snacks/bowl/oats,/turf/simulated/floor/planet/dirt,/area/the_shit)
+"aW" = (/obj/item/trash/bowl,/turf/simulated/floor/planet/dirt,/area/the_shit)
+"aX" = (/obj/item/weapon/reagent_containers/food/snacks/bowl/beans,/turf/simulated/floor/planet/dirt,/area/the_shit)
+"aY" = (/obj/item/weapon/storage/box/letter,/turf/simulated/floor/planet/dirt,/area/the_shit)
+"aZ" = (/obj/item/weapon/gun/projectile/wwi/bolt/g98rifle/scoped,/turf/simulated/floor/planet/dirt,/area/the_shit)
+"ba" = (/obj/item/wwi/transit,/turf/simulated/floor/planet/dirt,/area/the_shit)
+"bb" = (/obj/item/weapon/coin/req,/turf/simulated/floor/planet/dirt,/area/the_shit)
+"bc" = (/obj/machinery/light/spot{dir = 4},/obj/item/weapon/storage/bag/wwi/beans,/turf/simulated/floor/planet/dirt,/area/the_shit)
+"bd" = (/obj/item/weapon/card/id/wwi/britbrass,/turf/simulated/floor/planet/dirt,/area/the_shit)
+"be" = (/obj/item/weapon/card/id/wwi/frenchbrass,/turf/simulated/floor/planet/dirt,/area/the_shit)
+"bf" = (/obj/item/weapon/card/id/wwi/germanbrass,/turf/simulated/floor/planet/dirt,/area/the_shit)
+"bg" = (/obj/item/weapon/gun/projectile/wwi/lever/winchester,/turf/simulated/floor/planet/dirt,/area/the_shit)
+"bh" = (/obj/item/weapon/gun/projectile/wwi/mg08,/turf/simulated/floor/planet/dirt,/area/the_shit)
+"bi" = (/obj/item/weapon/gun/projectile/shotgun/pump/trenchgun,/turf/simulated/floor/planet/dirt,/area/the_shit)
+"bj" = (/obj/item/weapon/gun/projectile/wwi/lewis,/turf/simulated/floor/planet/dirt,/area/the_shit)
+"bk" = (/obj/item/weapon/gun/projectile/wwi/chauchat,/turf/simulated/floor/planet/dirt,/area/the_shit)
+"bl" = (/obj/item/weapon/melee/combat_knife/british,/turf/simulated/floor/planet/dirt,/area/the_shit)
+"bm" = (/obj/item/weapon/gun/projectile/wwi/ruby,/turf/simulated/floor/planet/dirt,/area/the_shit)
+"bn" = (/obj/item/weapon/gun/projectile/wwi/mauser,/turf/simulated/floor/planet/dirt,/area/the_shit)
+"bo" = (/obj/item/weapon/gun/projectile/wwi/p08,/turf/simulated/floor/planet/dirt,/area/the_shit)
+"bp" = (/obj/item/weapon/gun/projectile/revolver/webley,/turf/simulated/floor/planet/dirt,/area/the_shit)
+"bq" = (/obj/item/weapon/gun/projectile/wwi/bolt/g98rifle,/turf/simulated/floor/planet/dirt,/area/the_shit)
+"br" = (/obj/item/weapon/gun/projectile/wwi/bolt/lebel,/turf/simulated/floor/planet/dirt,/area/the_shit)
+"bs" = (/obj/item/weapon/gun/projectile/wwi/bolt/smle,/turf/simulated/floor/planet/dirt,/area/the_shit)
+"bt" = (/obj/machinery/light/spot{dir = 4},/obj/item/weapon/storage/bag/wwi/ham,/turf/simulated/floor/planet/dirt,/area/the_shit)
+"bu" = (/obj/item/weapon/card/id/wwi/britgold,/turf/simulated/floor/planet/dirt,/area/the_shit)
+"bv" = (/obj/item/weapon/card/id/wwi/frenchgold,/turf/simulated/floor/planet/dirt,/area/the_shit)
+"bw" = (/obj/item/weapon/card/id/wwi/germangold,/turf/simulated/floor/planet/dirt,/area/the_shit)
+"bx" = (/obj/item/weapon/gun/projectile/wwi/lever/winchester/sawn,/turf/simulated/floor/planet/dirt,/area/the_shit)
+"by" = (/obj/item/ammo_magazine/box/a792,/turf/simulated/floor/planet/dirt,/area/the_shit)
+"bz" = (/obj/item/ammo_box/shotgun/trench,/turf/simulated/floor/planet/dirt,/area/the_shit)
+"bA" = (/obj/item/ammo_magazine/box/mp303,/turf/simulated/floor/planet/dirt,/area/the_shit)
+"bB" = (/obj/item/ammo_magazine/box/c8mm,/turf/simulated/floor/planet/dirt,/area/the_shit)
+"bC" = (/obj/item/weapon/melee/combat_knife/french,/turf/simulated/floor/planet/dirt,/area/the_shit)
+"bD" = (/obj/item/ammo_magazine/c32acp,/turf/simulated/floor/planet/dirt,/area/the_shit)
+"bE" = (/obj/item/ammo_magazine/c9mm,/turf/simulated/floor/planet/dirt,/area/the_shit)
+"bF" = (/obj/item/ammo_magazine/c9mml,/turf/simulated/floor/planet/dirt,/area/the_shit)
+"bG" = (/obj/item/ammo_magazine/a445,/turf/simulated/floor/planet/dirt,/area/the_shit)
+"bH" = (/obj/item/ammo_magazine/g792,/turf/simulated/floor/planet/dirt,/area/the_shit)
+"bI" = (/obj/item/ammo_box/lebel,/turf/simulated/floor/planet/dirt,/area/the_shit)
+"bJ" = (/obj/item/ammo_magazine/smle_strip,/turf/simulated/floor/planet/dirt,/area/the_shit)
+"bK" = (/obj/machinery/light/spot{dir = 4},/obj/item/weapon/storage/bag/wwi/oats,/turf/simulated/floor/planet/dirt,/area/the_shit)
+"bL" = (/obj/item/ammo_casing/a3030,/turf/simulated/floor/planet/dirt,/area/the_shit)
+"bM" = (/obj/item/ammo_magazine/box/a792/empty,/turf/simulated/floor/planet/dirt,/area/the_shit)
+"bN" = (/obj/item/ammo_casing/shotgun/trench,/turf/simulated/floor/planet/dirt,/area/the_shit)
+"bO" = (/obj/item/ammo_magazine/box/mp303/empty,/turf/simulated/floor/planet/dirt,/area/the_shit)
+"bP" = (/obj/item/ammo_magazine/box/c8mm/empty,/turf/simulated/floor/planet/dirt,/area/the_shit)
+"bQ" = (/obj/item/weapon/melee/combat_knife/german,/turf/simulated/floor/planet/dirt,/area/the_shit)
+"bR" = (/obj/item/ammo_magazine/c32acp/empty,/turf/simulated/floor/planet/dirt,/area/the_shit)
+"bS" = (/obj/item/ammo_magazine/c9mm/empty,/turf/simulated/floor/planet/dirt,/area/the_shit)
+"bT" = (/obj/item/ammo_magazine/c9mml/empty,/turf/simulated/floor/planet/dirt,/area/the_shit)
+"bU" = (/obj/item/ammo_magazine/a445/empty,/turf/simulated/floor/planet/dirt,/area/the_shit)
+"bV" = (/obj/item/ammo_magazine/g792/empty,/turf/simulated/floor/planet/dirt,/area/the_shit)
+"bW" = (/obj/item/ammo_magazine/smle_strip/empty,/turf/simulated/floor/planet/dirt,/area/the_shit)
+"bX" = (/obj/item/weapon/mirror,/turf/simulated/floor/planet/dirt,/area/the_shit)
+"bY" = (/obj/structure/mirror,/turf/simulated/floor/planet/dirt,/area/the_shit)
+"bZ" = (/obj/item/clothing/suit/storage/wwi/germanarmor,/turf/simulated/floor/planet/dirt,/area/the_shit)
+"ca" = (/obj/item/clothing/suit/armor/special/wwi/britarmor,/turf/simulated/floor/planet/dirt,/area/the_shit)
+"cb" = (/obj/item/clothing/shoes/germanarmor,/turf/simulated/floor/planet/dirt,/area/the_shit)
+"cc" = (/obj/item/clothing/shoes/britarmor,/turf/simulated/floor/planet/dirt,/area/the_shit)
+"cd" = (/obj/item/clothing/head/helmet/britarmor,/turf/simulated/floor/planet/dirt,/area/the_shit)
+"ce" = (/obj/item/clothing/head/helmet/germanarmor,/turf/simulated/floor/planet/dirt,/area/the_shit)
+"cf" = (/obj/item/weapon/deck/cards,/obj/item/weapon/deck/tarot,/turf/simulated/floor/planet/dirt,/area/the_shit)
+"cg" = (/obj/item/weapon/wwi/can/soup,/turf/simulated/floor/planet/dirt,/area/the_shit)
+"ch" = (/obj/item/weapon/wwi/can/beans,/turf/simulated/floor/planet/dirt,/area/the_shit)
+"ci" = (/obj/item/weapon/wwi/can/fish,/turf/simulated/floor/planet/dirt,/area/the_shit)
+"cj" = (/obj/item/weapon/wwi/can/ham,/turf/simulated/floor/planet/dirt,/area/the_shit)
+"ck" = (/obj/structure/sandbag{tag = "icon-sandbag (NORTHWEST)"; icon_state = "sandbag"; dir = 9},/turf/simulated/floor/planet/dirt,/area/the_shit)
+"cl" = (/obj/item/device/flashlight/lantern/mining,/obj/structure/sandbag{tag = "icon-sandbag (NORTH)"; icon_state = "sandbag"; dir = 1},/turf/simulated/floor/planet/dirt,/area/the_shit)
+"cm" = (/obj/structure/sandbag{tag = "icon-sandbag (NORTH)"; icon_state = "sandbag"; dir = 1},/turf/simulated/floor/planet/dirt,/area/the_shit)
+"cn" = (/obj/structure/sandbag{tag = "icon-sandbag (NORTHEAST)"; icon_state = "sandbag"; dir = 5},/turf/simulated/floor/planet/dirt,/area/the_shit)
+"co" = (/obj/item/weapon/reagent_containers/glass/trench,/turf/simulated/floor/planet/dirt,/area/the_shit)
+"cp" = (/obj/item/weapon/reagent_containers/food/drinks/coffee/trench,/turf/simulated/floor/planet/dirt,/area/the_shit)
+"cq" = (/obj/item/weapon/reagent_containers/food/drinks/bottle/trench/schnapps,/turf/simulated/floor/planet/dirt,/area/the_shit)
+"cr" = (/obj/item/weapon/reagent_containers/food/drinks/bottle/trench/whiskey,/turf/simulated/floor/planet/dirt,/area/the_shit)
+"cs" = (/obj/item/weapon/reagent_containers/food/drinks/bottle/trench/wine,/turf/simulated/floor/planet/dirt,/area/the_shit)
+"ct" = (/obj/item/clothing/gloves/watch,/turf/simulated/floor/planet/dirt,/area/the_shit)
+"cu" = (/obj/item/clothing/accessory/locket/watch,/turf/simulated/floor/planet/dirt,/area/the_shit)
+"cv" = (/obj/item/weapon/paper,/turf/simulated/floor/planet/dirt,/area/the_shit)
+"cw" = (/obj/item/weapon/storage/fancy/cigarettes/topdog,/turf/simulated/floor/planet/dirt,/area/the_shit)
+"cx" = (/obj/item/weapon/storage/belt/trenchmed,/turf/simulated/floor/planet/dirt,/area/the_shit)
+"cy" = (/obj/item/stack/medical/bruise_pack/trench/ten,/turf/simulated/floor/planet/dirt,/area/the_shit)
+"cz" = (/obj/item/stack/medical/splint/ghetto,/turf/simulated/floor/planet/dirt,/area/the_shit)
+"cA" = (/obj/item/clothing/accessory/storage/wwi/brit,/turf/simulated/floor/planet/dirt,/area/the_shit)
+"cB" = (/obj/structure/sandbag{tag = "icon-sandbag (WEST)"; icon_state = "sandbag"; dir = 8},/turf/simulated/floor/planet/dirt,/area/the_shit)
+"cC" = (/obj/structure/sandbag{tag = "icon-sandbag (EAST)"; icon_state = "sandbag"; dir = 4},/turf/simulated/floor/planet/dirt,/area/the_shit)
+"cD" = (/obj/structure/target_stake,/obj/item/target/syndicate,/turf/simulated/floor/planet/dirt,/area/the_shit)
+"cE" = (/obj/item/metalscraps,/turf/simulated/floor/planet/dirt,/area/the_shit)
+"cF" = (/obj/item/weapon/wrench/trench,/turf/simulated/floor/planet/dirt,/area/the_shit)
+"cG" = (/obj/item/weapon/screwdriver/opener,/turf/simulated/floor/planet/dirt,/area/the_shit)
+"cH" = (/obj/item/trash/cansoup,/turf/simulated/floor/planet/dirt,/area/the_shit)
+"cI" = (/obj/item/weapon/reagent_containers/food/snacks/can/soup,/turf/simulated/floor/planet/dirt,/area/the_shit)
+"cJ" = (/obj/item/weapon/storage/box/matches/trench,/turf/simulated/floor/planet/dirt,/area/the_shit)
+"cK" = (/obj/item/weapon/storage/fancy/cigarettes/fundamentals,/turf/simulated/floor/planet/dirt,/area/the_shit)
+"cL" = (/obj/item/weapon/gun/projectile/wwi/colt1911,/turf/simulated/floor/planet/dirt,/area/the_shit)
+"cM" = (/obj/item/stack/material/steel/fifty,/turf/simulated/floor/planet/dirt,/area/the_shit)
+"cN" = (/obj/item/clothing/head/helmet/frenchofficer,/turf/simulated/floor/planet/dirt,/area/the_shit)
+"cO" = (/obj/item/clothing/shoes/british,/turf/simulated/floor/planet/dirt,/area/the_shit)
+"cP" = (/obj/item/device/flashlight/lantern/mining,/turf/simulated/floor/planet/dirt,/area/the_shit)
+"cQ" = (/obj/item/device/flashlight/lantern/wolf,/turf/simulated/floor/planet/dirt,/area/the_shit)
+"cR" = (/obj/structure/reagent_dispensers/fueltank/wwi,/turf/simulated/floor/planet/dirt,/area/the_shit)
+"cS" = (/obj/structure/target_stake,/obj/item/target,/turf/simulated/floor/planet/dirt,/area/the_shit)
+"cT" = (/obj/structure/tanktrap,/turf/simulated/floor/planet/dirt,/area/the_shit)
+"cU" = (/obj/item/weapon/wirecutters/trench,/turf/simulated/floor/planet/dirt,/area/the_shit)
+"cV" = (/obj/item/weapon/crowbar/trench,/turf/simulated/floor/planet/dirt,/area/the_shit)
+"cW" = (/obj/item/trash/canbean,/turf/simulated/floor/planet/dirt,/area/the_shit)
+"cX" = (/obj/item/weapon/pickaxe/trench,/turf/simulated/floor/planet/dirt,/area/the_shit)
+"cY" = (/obj/item/clothing/under/wwi/brit,/turf/simulated/floor/planet/dirt,/area/the_shit)
+"cZ" = (/obj/item/ammo_magazine/a45,/turf/simulated/floor/planet/dirt,/area/the_shit)
+"da" = (/obj/item/clothing/head/helmet/frenchsoft,/turf/simulated/floor/planet/dirt,/area/the_shit)
+"db" = (/obj/item/clothing/shoes/french,/turf/simulated/floor/planet/dirt,/area/the_shit)
+"dc" = (/obj/item/weapon/paper/trench,/turf/simulated/floor/planet/dirt,/area/the_shit)
+"dd" = (/obj/item/weapon/pen,/turf/simulated/floor/planet/dirt,/area/the_shit)
+"de" = (/obj/structure/target_stake,/obj/item/target/alien,/turf/simulated/floor/planet/dirt,/area/the_shit)
+"df" = (/obj/structure/bardbedwire,/turf/simulated/floor/planet/dirt,/area/the_shit)
+"dg" = (/obj/item/weapon/weldingtool/trench,/turf/simulated/floor/planet/dirt,/area/the_shit)
+"dh" = (/obj/item/weapon/screwdriver/trench,/turf/simulated/floor/planet/dirt,/area/the_shit)
+"di" = (/obj/item/trash/canfish,/turf/simulated/floor/planet/dirt,/area/the_shit)
+"dj" = (/obj/item/weapon/reagent_containers/food/snacks/can/fish,/turf/simulated/floor/planet/dirt,/area/the_shit)
+"dk" = (/obj/item/weapon/melee/hammer,/turf/simulated/floor/planet/dirt,/area/the_shit)
+"dl" = (/obj/item/clothing/suit/storage/wwi/germancoat,/turf/simulated/floor/planet/dirt,/area/the_shit)
+"dm" = (/obj/item/ammo_magazine/a45/empty,/turf/simulated/floor/planet/dirt,/area/the_shit)
+"dn" = (/obj/item/clothing/suit/storage/wwi/frenchcoat,/turf/simulated/floor/planet/dirt,/area/the_shit)
+"do" = (/obj/item/clothing/head/helmet/germanofficer,/turf/simulated/floor/planet/dirt,/area/the_shit)
+"dp" = (/obj/item/clothing/shoes/german,/turf/simulated/floor/planet/dirt,/area/the_shit)
+"dq" = (/obj/item/missile/dynamite,/turf/simulated/floor/planet/dirt,/area/the_shit)
+"dr" = (/obj/item/missile/dynamite/cluster,/turf/simulated/floor/planet/dirt,/area/the_shit)
+"ds" = (/obj/structure/sandbag{tag = "icon-sandbag (SOUTHWEST)"; icon_state = "sandbag"; dir = 10},/turf/simulated/floor/planet/dirt,/area/the_shit)
+"dt" = (/obj/item/device/flashlight/lantern/mining,/obj/structure/sandbag,/turf/simulated/floor/planet/dirt,/area/the_shit)
+"du" = (/obj/structure/sandbag,/turf/simulated/floor/planet/dirt,/area/the_shit)
+"dv" = (/obj/structure/sandbag{tag = "icon-sandbag (SOUTHEAST)"; icon_state = "sandbag"; dir = 6},/turf/simulated/floor/planet/dirt,/area/the_shit)
+"dw" = (/obj/item/clothing/head/helmet/britsoft,/turf/simulated/floor/planet/dirt,/area/the_shit)
+"dx" = (/obj/item/clothing/head/helmet/britofficer,/turf/simulated/floor/planet/dirt,/area/the_shit)
+"dy" = (/obj/item/clothing/mask/gas/wwi/german,/turf/simulated/floor/planet/dirt,/area/the_shit)
+"dz" = (/obj/item/clothing/mask/gas/wwi/french,/turf/simulated/floor/planet/dirt,/area/the_shit)
+"dA" = (/obj/item/clothing/mask/gas/wwi/british,/turf/simulated/floor/planet/dirt,/area/the_shit)
+"dB" = (/obj/item/clothing/under/wwi/french,/turf/simulated/floor/planet/dirt,/area/the_shit)
+"dC" = (/obj/item/clothing/under/wwi/german,/turf/simulated/floor/planet/dirt,/area/the_shit)
+"dD" = (/obj/item/clothing/suit/storage/wwi/britishcoat,/turf/simulated/floor/planet/dirt,/area/the_shit)
+"dE" = (/obj/item/clothing/head/helmet/germansoft,/turf/simulated/floor/planet/dirt,/area/the_shit)
+"dF" = (/obj/item/weapon/flame/candle/trench,/turf/simulated/floor/planet/dirt,/area/the_shit)
+
+(1,1,1) = {"
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaaaa
+aaaaababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaaaa
+aaaaababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaaaa
+aaaaababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaaaa
+aaaaababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaaaa
+aaaaababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaaaa
+aaaaababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaaaa
+aaaaababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaaaa
+aaaaababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaaaa
+aaaaababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaaaa
+aaaaababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaaaa
+aaaaababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaaaa
+aaaaababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaaaa
+aaaaababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaaaa
+aaaaababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaaaa
+aaaaababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaaaa
+aaaaababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaaaa
+aaaaababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaaaa
+aaaaababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaaaa
+aaaaababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaaaa
+aaaaababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaaaa
+aaaaababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaaaa
+aaaaababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaaaa
+aaaaababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaaaa
+aaaaababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaaaa
+aaaaababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaaaa
+aaaaababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaaaa
+aaaaababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaaaa
+aaaaababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaaaa
+aaaaababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaaaa
+aaaaababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaaaa
+aaaaababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaaaa
+aaaaababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaaaa
+aaaaababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaaaa
+aaaaababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaaaa
+aaaaababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaaaa
+aaaaababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaaaa
+aaaaababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaaaa
+aaaaababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaaaa
+aaaaababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaaaa
+aaaaababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaaaa
+aaaaababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaaaa
+aaaaababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaaaa
+aaaaababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaaaa
+aaaaababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaaaa
+aaaaababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaaaa
+aaaaababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaaaa
+aaaaababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaaaa
+aaaaababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaaaa
+aaaaababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaaaa
+aaaaababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaaaa
+aaaaababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaaaa
+aaaaababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaaaa
+aaaaababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaaaa
+aaaaababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaaaa
+aaaaabababababababababaaaaaaaaaaaaaaaaaaababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaaaa
+aaacabababababababababaaabadabaaabababaaababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaaaa
+aaacabababababababababaaabaeabababafagaaababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaaaa
+aaacabababababababababaaabababaaabababaaababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaaaa
+aaacabababababababababaaaaabaaaaaaaaaaaaababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaaaa
+aaacabababababababababaaabababaaababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaaaa
+aaacabababababababababaaabababaaahabababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaaaa
+aaaaabababababababababaaabaiabaaababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaaaa
+aaaaabababababababababaaaaaaaaaaababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaaaa
+aaaaababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaaaa
+aaaaababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaaaa
+aaaaababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaaaa
+aaaaababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaaaa
+aaaaababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaaaa
+aaaaababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaaaa
+aaaaababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaaaa
+aaaaababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaaaa
+aaaaabababajabakabakabajabakabakabajababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaaaa
+aaaaababalamanaeanaeanaoanapanaqanaqarabababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaaaa
+aaaaababalabanabanabanabanabanabanabarabababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaaaa
+aaaaabasalabanabanabanabanabanabanabaratababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaaaa
+aaaaababalauanavanawanaxanayanazanaAarabababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaaaa
+aaaaabababaBabaBabaBabaBabaBabaBabaBababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaaaa
+aaaaabababababaCaDaEababaFaGaHabababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaaaa
+aaaaabababababaIaJaKaLabaeaoaqabapabababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaaaa
+aaaaababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaaaa
+aaaaabababababadadadadadadadadadadadadababaMaNaOababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaaaa
+aaaaababababahaPaQaRaSaTaUaVaWaXaYaZbabbbcbdbebfababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaaaa
+aaaaababababahbgbhbibjbkblbmbnbobpbqbrbsbtbubvbwababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaaaa
+aaaaababababahbxbybzbAbBbCbDbEbFbGbHbIbJbKabababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaaaa
+aaaaababababahbLbMbNbObPbQbRbSbTbUbVabbWagabababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaaaa
+aaaaababababahbXbYbZcacbcccdcecfcgchcicjagababababababababababababababckclclcmcmcmcnababababababababababababababababababababababababababababababababababababababababababababababababababababababababaaaa
+aaaaababababahcocpcqcrcsabctcucvcwcxcyczagcAabababababababababababababcBabababababcCabababababcDababababababababababababababababababababababababababababababababababababababababababababababababababaaaa
+aaaaababababahcEcFcGcHcIcJcKcLcMcNcOcPcQagcRabababababababababababababababababababcCabababababcSababababababababababababababababababababababababababababababababababababababababababababababababababaaaa
+aaaaababababahcTcUcVcWafcXcYcZcMdadbdcddagababababababababababababababcBabababababcCabababababdeababababababababababababababababababababababababababababababababababababababababababababababababababaaaa
+aaaaababababahdfdgdhdidjdkdldmdndodpdqdragababababababababababababababdsdtdtdudududvababababababababababababababababababababababababababababababababababababababababababababababababababababababababaaaa
+aaaaababababahabdwdxdydzdAdBdCdDdEdFababagabababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaaaa
+aaaaabababababaiaiaiaiaiaiaiaiaiaiaiaiaiababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaaaa
+aaaaababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaaaa
+aaaaababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaaaa
+aaaaababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+"}
